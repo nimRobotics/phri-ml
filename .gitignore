@@ -1,0 +1,4 @@
+*.csv
+/outputs/*
+/outputs/
+*.png
